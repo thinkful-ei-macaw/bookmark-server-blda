@@ -1,0 +1,46 @@
+{"message":"bookmark 1 not found","level":"error"}
+{"message":"bookmark 1 not found","level":"error"}
+{"message":"bookmark 1 not found","level":"error"}
+{"message":"bookmark 1 created","level":"info"}
+{"message":"bookmark 2 created","level":"info"}
+{"message":"bookmark 4 not found","level":"error"}
+{"message":"bookmark 4 not found","level":"error"}
+{"message":"bookmark 3 created","level":"info"}
+{"message":"bookmark undefined updated","level":"info"}
+{"message":"bookmark undefined updated","level":"info"}
+{"message":"bookmark 4 created","level":"info"}
+{"message":"bookmark 5 created","level":"info"}
+{"message":"bookmark 6 created","level":"info"}
+{"message":"bookmark 6 deleted","level":"info"}
+{"message":"bookmark 5 deleted","level":"info"}
+{"message":"bookmark 4 deleted","level":"info"}
+{"message":"bookmark 4 not found","level":"error"}
+{"message":"bookmark 4 not found","level":"error"}
+{"message":"bookmark 4 not found","level":"error"}
+{"message":"bookmark 2 deleted","level":"info"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 2 not found","level":"error"}
+{"message":"bookmark 5 not found","level":"error"}
+{"message":"bookmark 4 not found","level":"error"}
+{"message":"bookmark 7 created","level":"info"}
+{"message":"bookmark 8 created","level":"info"}
+{"message":"bookmark 7 deleted","level":"info"}
+{"message":"bookmark 3 deleted","level":"info"}
+{"message":"bookmark 3 not found","level":"error"}
+{"message":"bookmark 3 not found","level":"error"}
+{"message":"bookmark 8 deleted","level":"info"}

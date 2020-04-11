@@ -1,0 +1,32 @@
+{
+  "name": "bookmarks-database-blcs",
+  "version": "1.0.0",
+  "description": "An Express app",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "mocha --require test/setup.js",
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "predeploy": "npm audit",
+    "deploy": "git push heroku master",
+    "migrate": "postgrator --config postgrator-config.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "morgan": "^1.10.0",
+    "pg": "^8.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "knex": "^0.20.13",
+    "mocha": "^7.1.1",
+    "nodemon": "^2.0.2",
+    "postgrator-cli": "^3.2.0",
+    "supertest": "^4.0.2",
+    "winston": "^3.2.1",
+    "xss": "^1.0.6"
+  }
+}
